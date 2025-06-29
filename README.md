@@ -1,5 +1,7 @@
 # Pizza_Report_using_Tableau
 
+## Project Link: https://public.tableau.com/app/profile/ashok.rathod8613/vizzes
+
 🔍 Domino's Pizza Sales Dashboard – Tableau Project
 📊 Designed and developed an interactive YTD dashboard in Tableau to visualize Domino’s pizza sales performance.
 
